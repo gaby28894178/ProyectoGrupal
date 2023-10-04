@@ -13,7 +13,7 @@
 #   como valueError UnicodeEncodeError
 #  * controlar que lo ingresado sea  todo en mayuscula el texto  recuerda usar
 #  Recuerde que para eso usamos la funcion de python upper
-#  la funcion upper () logra pasar el string o texto a mayuscula
+#  la funcion upper() logra pasar el string o texto a mayuscula
 
 # recordar  q el nombre de la funbcion final a subir dev4e ser addProducto usando el camel case
 # finalidad de la funcion agregar un dato de producto en caso de que no exista
